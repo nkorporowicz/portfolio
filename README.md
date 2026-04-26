@@ -8,8 +8,7 @@ Full portfolio:
 [Download PDF](./Nikola_Korporowicz_Portfolio.pdf)
 
 ## 🎮 Interactive Quest Prototype
-Playable quest (Twine):
-https://nkorporowicz.github.io/salt-and-soil/
+Playable quest (Twine)
 
 ## 🧠 Focus Areas
 - Branching storytelling
